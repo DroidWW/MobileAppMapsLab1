@@ -8,9 +8,9 @@
    - Отслеживание местоположения устройства
 
 ## Установка зависимостей 
-    "npm install react-native-maps/uuid/expo-image-picker/expo-router/react-native-async-storage".
+    npm install react-native-maps/uuid/expo-image-picker/expo-router/react-native-async-storage
 ## Запуск проекта 
-    "npx expo start"
+    npx expo start
 ## Тестирование приложения
     Открыть приложение Expo Go на телефоне и отсканировать QR-код в терминале.
 
